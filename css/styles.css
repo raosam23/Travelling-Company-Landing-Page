@@ -1,0 +1,133 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #7EB2DD;
+}
+#heading {
+    font-family: 'DM Serif Display', serif;
+    font-size: 65px;
+}
+
+.header {
+    margin-top: 6rem;
+    width: 80%;
+}
+
+.nav-item {
+    font-family: 'Instrument Serif', serif;
+    font-size: 30px;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #fff;
+}
+
+.navbar-brand:hover,
+.nav-link:hover {
+  color: #ECF9FF; /* Replace with your desired hover color */
+}
+
+.navbar-brand:focus,
+.navbar-brand:active,
+.nav-link:focus,
+.nav-link:active {
+  color: #fff; /* Replace with your desired color for active/focused links */
+}
+
+.nav-link:active:hover,
+.navbar-brand:active:hover,
+.nav-link:focus:hover,
+.navbar-brand:focus:hover{
+    color : #ECF9FF;
+}
+
+.tagline h1{
+    position: absolute;
+    overflow: hidden; 
+    margin-top: 150px;
+    color: #fff;
+    font-family: 'Instrument Serif', serif;
+    font-size: 100px;
+}
+
+.main-img{
+    margin-top: 300px;
+    position: static;
+    float: right;
+}
+
+.card-header{
+    font-family: 'DM Serif Display', serif;
+    font-size: 50px;
+}
+
+.card-title{
+    font-family: 'DM Serif Display', serif;
+    font-size: 30px;
+}
+
+.card {
+    background: #7EB2DD;
+    color: #ECF9FF;
+    font-family: 'Instrument Serif', serif;
+    font-size: 20px;
+}
+
+#saul-goodman-pic{
+    background-color: #6290b6;
+}
+
+.discover-tagline {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.discover-tagline h1{
+    text-align: center;
+    position: absolute;
+    overflow: hidden; 
+    color: #fff;
+    font-family: 'Instrument Serif', serif;
+    font-size: 55px;
+}
+  
+.cards{
+    margin-top: 150px;
+}
+
+.book-btn{
+    background-color: #6290b6;
+}
+
+.all-cards{
+    margin-top: 100px;
+}
+
+.place-img{
+    width: auto;
+    height: 175px;
+}
+
+.footer {
+    color: #fff;
+    font-family: 'Instrument Serif', serif;
+    margin-top: 75px;
+    text-align: center;  
+}
+
+.footer a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.home-footer {
+    position: relative;
+    margin-top: 600px;
+    margin-bottom: auto;
+}
